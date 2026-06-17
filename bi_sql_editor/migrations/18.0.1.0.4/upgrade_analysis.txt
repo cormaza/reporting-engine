@@ -1,0 +1,7 @@
+---Models in module 'bi_sql_editor'---
+---Fields in module 'bi_sql_editor'---
+bi_sql_editor / bi.sql.view              / failed_message_ids (one2many) : DEL relation: mail.message
+bi_sql_editor / bi.sql.view              / form_view_id (many2one)       : DEL relation: ir.ui.view
+bi_sql_editor / bi.sql.view              / use_external_database (boolean): NEW
+bi_sql_editor / bi.sql.view.field        / is_many2one_clickable (boolean): DEL
+---XML records in module 'bi_sql_editor'---
