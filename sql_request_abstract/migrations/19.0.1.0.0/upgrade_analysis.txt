@@ -1,0 +1,4 @@
+---Models in module 'sql_request_abstract'---
+---Fields in module 'sql_request_abstract'---
+---XML records in module 'sql_request_abstract'---
+NEW res.groups.privilege: sql_request_abstract.privilege_sql_request

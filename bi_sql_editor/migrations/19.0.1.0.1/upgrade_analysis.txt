@@ -1,0 +1,5 @@
+---Models in module 'bi_sql_editor'---
+---Fields in module 'bi_sql_editor'---
+---XML records in module 'bi_sql_editor'---
+NEW ir.model.access: bi_sql_editor.access_ir_actions_act_window_sql_request_manager
+NEW ir.model.access: bi_sql_editor.access_ir_model_sql_request_manager
